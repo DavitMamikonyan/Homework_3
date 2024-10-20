@@ -8,7 +8,7 @@ int main(){
  int a_matrix[3][2] = {{1,4}, {2,5}, {3,6}};
  int b_matrix[2][3] = {{7,8,9}, {10,11,12}};
  int i, j, k;
- int prod_result[i][j] = {0};
+ int prod_result[3][3] = {0};
 
  // Production of a and b
  for (i=0; i<3; i++){
